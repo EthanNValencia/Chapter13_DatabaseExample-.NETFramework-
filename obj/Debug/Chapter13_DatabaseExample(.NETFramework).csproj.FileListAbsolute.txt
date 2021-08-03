@@ -1,0 +1,10 @@
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\bin\Debug\Chapter13_DatabaseExample(.NETFramework).exe.config
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\bin\Debug\Chapter13_DatabaseExample(.NETFramework).exe
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\bin\Debug\Chapter13_DatabaseExample(.NETFramework).pdb
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\obj\Debug\Chapter13_DatabaseExample(.NETFramework).csproj.AssemblyReference.cache
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\obj\Debug\Chapter13_DatabaseExample_.NETFramework_.Form1.resources
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\obj\Debug\Chapter13_DatabaseExample_.NETFramework_.Properties.Resources.resources
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\obj\Debug\Chapter13_DatabaseExample(.NETFramework).csproj.GenerateResource.cache
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\obj\Debug\Chapter13_DatabaseExample(.NETFramework).csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\obj\Debug\Chapter13_DatabaseExample(.NETFramework).exe
+C:\Users\Ethan\source\repos\Chapter13_DatabaseExample(.NETFramework)\obj\Debug\Chapter13_DatabaseExample(.NETFramework).pdb
